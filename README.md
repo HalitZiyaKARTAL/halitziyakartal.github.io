@@ -1,1 +1,1 @@
-<meta http-equiv=refresh content="0;url=halitziyakartal.github.io/test10/index.html">
+<script>location.replace('/test10/')</script><meta http-equiv=refresh content="0;url=/test10/">
